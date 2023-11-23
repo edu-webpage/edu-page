@@ -1,0 +1,37 @@
+img
+{ width: 250px;
+  height: 200px;
+  margin: 1cm;
+  border-radius: 4px;
+}
+header {
+  background-color: chocolate;
+  padding: 10px;
+  text-align: center;
+ }
+
+  header h1 {
+  color: #fff;
+  font-size: 24px;
+  }
+   .second {
+    background-color: chocolate;  
+    padding: 5px;
+    text-align: center;
+   }
+  
+    header h2 {
+    color: #fff;
+    font-size: 0cap;
+    }
+
+    header h3{
+      color: #fff;
+      font-size: 20px;
+       }
+    .third
+    {
+      background-color: chocolate;
+      padding: 10px;
+      text-align: center;
+    }

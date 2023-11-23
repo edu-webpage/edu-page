@@ -1,0 +1,25 @@
+.one {
+    background-color: #FF8C00;
+    padding: 10px;
+    text-align: center;
+   }
+  
+    header h1 {
+    color: #fff;
+    font-size: 24px;
+    }
+
+img
+{
+  width: 250px;
+  height: 300px;
+  border-radius: 6px;
+  margin: 1cm;
+  margin-top: 2%;
+}
+body{
+  background-color: #FFFFF0;
+}
+
+
+
